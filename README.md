@@ -1,6 +1,6 @@
 # Super-RainbowReef
 
-## Created By: Miguel Yamamoto 
+## Created By: Miguel 
 
 This project was created using IntelliJ IDEA Ultimate using JDK 12.0.2
 The root of the repo is my source root
